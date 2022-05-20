@@ -5,6 +5,7 @@
 - Second item
 - Third item
 ## Methodolgy
+##([image.png](https://github.com/egtef/Portfolio/blob/main/images/segmentation.png))
 
 # [**Project 2- Churn prediction**](https://github.com/egtef/customer-segmentation)
 ## Overview
