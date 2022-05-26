@@ -10,5 +10,5 @@
 •	Evaluate the model using silhouette score getting elbow at k=2, score=0.77.
 
 ## Visuals
-![](/images/segmentation.png)  ![](/images/segmentation.png)
+![](/images/segmentation.png)  ![](/images/customer-seg-1.png)
 
