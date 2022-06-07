@@ -28,3 +28,21 @@
 ## Visuals
 ![](/images/clv-1.png)  ![](/images/clv-2.png)
 
+
+# [**Project 3- Churn prediction analysis**](https://github.com/egtef/Churn-prediction-analysis)
+## Overview
+•	Used dataset of telecommunication company.
+
+•	Data overview & do Data cleaning. 
+
+•	Exploratory analysis
+
+•	Correlation Matrix
+
+•	Data Pre Processing for Model Building.  
+
+•	Model building (Logistic regression - Decision tree) 
+
+## Visuals
+![](/images/churn1.png)  ![](/images/churn2.png) ![](/images/churn3.png)
+
