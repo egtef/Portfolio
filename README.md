@@ -46,3 +46,20 @@
 ## Visuals
 ![](/images/churn1.png)  ![](/images/churn2.png) ![](/images/churn3.png)
 
+
+# [**Project 4- Sentiment analysis**](https://github.com/egtef/sentiment-analysis)
+## Overview
+•	Data Import & overview.
+
+•	Text processing using libraries like "re","nltk". 
+
+•	Feature extraction using bag of words
+
+•	Correlation Matrix
+
+•	Evaluating the model performance using F1 score, Accuracy, Precsion and Recall.  
+
+
+
+
+
