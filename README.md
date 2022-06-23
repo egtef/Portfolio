@@ -1,4 +1,4 @@
-# A portfolio shows projects i've been excuting follow data anlytics techniques and analytical mindset, exploring many problems across various domains. 
+## A portfolio shows projects i've been excuting follow data anlytics techniques and analytical mindset, exploring many problems across various domains. 
 ## [**Project 1- Customer segmentation**](https://github.com/egtef/customer-segmentation)
 ### Overview
 •	Used dataset of appliance and electronic online store to segment the customers based on their recency, frequency and monetary.
