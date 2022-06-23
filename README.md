@@ -1,4 +1,4 @@
-## A portfolio shows projects i’m excuting following data anlytics approach and exploring many problems across various domains.
+> A portfolio shows projects i’m excuting following data anlytics approach and exploring many problems across various domains.
 
 ## [**Project 1- Customer segmentation**](https://github.com/egtef/customer-segmentation)
 ### Overview
