@@ -63,14 +63,14 @@
 
 # [**Project 5- titanic survivals prediction**](https://github.com/egtef/titanic-survivals-prediction)
 
-**Overview
+## Overview
 • It's a classification problem. 
 
 • Practicing EDA on the dataset using python.
 
 • Predict survived and unsurvived passengers using various Ml models.
 
-**Methodolgy**
+## Methodolgy
 • Running exploratory data analysis, dealing with missing values.
 
 • Feature engineering using sklearn LabelEncoder and OneHotEncoder.
