@@ -58,7 +58,12 @@
 
 •	Correlation Matrix
 
-•	Evaluating the model performance using F1 score, Accuracy, Precsion and Recall.  
+•	Naive Bayes Model achieved best performance compared to other models:-
+
+- Test Data Accuracy: 0.6840
+- Precsison: 0.6453
+- Recall: 0.8340
+- F1 Score: 0.7276
 
 
 
