@@ -1,7 +1,7 @@
 > ## Some of data projects which tackle different business problems across various domains.
 
 ## [**Project 1- Customer segmentation**](https://github.com/egtef/customer-segmentation)
-### Overview
+### Methodolgy
 •	Used dataset of appliance and electronic online store to segment the customers based on their recency, frequency and monetary.
 
 •	Implement EDA using Python to group the customers into segments using RFM analysis. 
@@ -15,7 +15,7 @@
 
 
 ## [**Project 2- Product analysis and CLV**](https://github.com/egtef/products-clv)
-### Overview
+### Methodology
 •	Used dataset of online store from UCI machine learning laboratory.
 
 •	Clean the data, remove outliers. 
@@ -31,7 +31,7 @@
 
 
 ## [**Project 3- Churn prediction analysis**](https://github.com/egtef/Churn-prediction-analysis)
-### Overview
+### Methodology
 •	Used dataset of telecommunication company.
 
 •	Data overview & do Data cleaning. 
@@ -49,7 +49,7 @@
 
 
 ## [**Project 4- Sentiment analysis**](https://github.com/egtef/sentiment-analysis)
-### Overview
+### Methodology
 •	Data Import & overview.
 
 •	Text processing using libraries like "re","nltk". 
@@ -67,13 +67,21 @@
 
 
 
-## [**Project 5- titanic survivals prediction**](https://github.com/egtef/titanic-survivals-prediction)
-### Overview
-• It's a classification problem. 
+## [**Project 5- Sales Insights**](https://github.com/egtef/Sales-Insights)
+### Dataset
+Using Demo dataset of a multi-branches hardware company.
 
-• Practicing EDA on the dataset using python.
+**Project Goals**
 
-• Predict survived and unsurvived passengers using various Ml models.
+- To unlock sales insights that aren’t visible before & provide valuable insights about the sales performance.
+- An automated dashboard to uncover sales insights to help in taking better decisions.
+
+**Methodolgy**
+
+- ETL process: Connect tableau to MYSQL database and load the dataset.
+- Perform data cleaning: Filter out any market outside of the region, Filter out -1 values in sales column.
+- Perform EDA using tableau.
+- Create dynamic dashboard.
 
 ### Dashboard
 ![](/images/Picturesales.png)  
