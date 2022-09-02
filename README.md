@@ -84,4 +84,4 @@ Using Demo dataset of a multi-branches hardware company.
 - Create dynamic dashboard.
 
 ### Dashboard
-![](/images/Picturesales.png)  
+![](/images/Picturesales.png)
