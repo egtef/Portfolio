@@ -46,3 +46,14 @@
 
 ### Dashboard (Tableau)
 ![](/images/Picturesales.png)
+
+
+## [**Project 6- Google merchandise case study**](https://github.com/egtef/Google-Merchandise-Store)
+### Project Goals
+
+- Gaining insights into store performance to support data driven decision making.
+- Give recommendation based on the campaigns and products to improve sales.
+
+
+### Dashboard (Google data studio)
+![](/images/gds.png)
