@@ -1,4 +1,4 @@
-> ## Some of data projects which tackle different business problems across various domains.
+> ## Some of data projects that tackle different business problems across various domains.
 
 ## [**Project 1- Customer segmentation**](https://github.com/egtef/customer-segmentation)
 ### Project Goal
