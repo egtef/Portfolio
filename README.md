@@ -44,5 +44,5 @@
 - An automated dashboard to uncover sales insights to help in taking better decisions.
 
 
-### Dashboard
+### Dashboard (Tableau)
 ![](/images/Picturesales.png)
