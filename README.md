@@ -58,4 +58,4 @@
 ### Dashboard (Google data studio)
 ![](/images/gds.png)
 
-[**Dashboard link**](https://datastudio.google.com/reporting/e18c1dea-d51d-40dd-a55b-8d758378c922)
+[**Dashboard live view**](https://datastudio.google.com/reporting/e18c1dea-d51d-40dd-a55b-8d758378c922)
