@@ -24,7 +24,7 @@
 - Identify segments
 - Evaluate clustering using silhouette score
 
-### Visuals
+### Outputs
 ![](/images/rfm.png)  ![](/images/segmentation.png)
 
 
