@@ -1,6 +1,8 @@
 > ## Some of data projects that tackle different business problems across various domains.
 
-## [**Project 1- Customer segmentation**](https://github.com/egtef/customer-segmentation)
+## [**Project 1- Online store customers segmentation**](https://github.com/egtef/customer-segmentation)
+- This project classifies an online store customers based on their Recnecy,Frequency and Monetary.
+
 ### Project Goal
 
 - Identify the potential customer group from transactional data to improve the marketing campaign by designing profitable strategies; hence to increase the sales.
