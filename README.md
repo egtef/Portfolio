@@ -1,14 +1,31 @@
 > ## Some of data projects that tackle different business problems across various domains.
 
 ## [**Project 1- Online store customers segmentation**](https://github.com/egtef/customer-segmentation)
-- This project classifies an online store customers based on their Recnecy,Frequency and Monetary.
+- This project classifies an online store customers based on their Recnecy, Frequency and Monetary.
 
-### Project Goal
+**Dataset name**: appliances and electronics online store
 
-- Identify the potential customer group from transactional data to improve the marketing campaign by designing profitable strategies; hence to increase the sales.
+**Dataset source:** Kaggle
+
+**Dataset url:** https://www.kaggle.com/mkechinov/ecommerce-purchase-history-from-electronics-store
+
+**Dataset brief:**  This file contains purchase data from April 2020 to November 2020 from a large home appliances and electronics online store. Each row in the file represents an event. All events are related to products and users. 
+
+**Case problem:** The world has transferred to the digital era several years ago, along with this transformation the marketing has been evolved from traditional marketing activities to the digital one. Developing effective digital marketing strategies targeting the right audience with the required needs and demands based on specific characteristics is a problem faced many companies these days. Segmenting the customers based on their behaviour’s characteristics (spending, consumption habits, product/service usage, and previously purchased products), demographics characteristics like (occupation, gender, age, location, and marital status) and Psychographic characteristics like (social class, lifestyle, and personality characteristics) are essential for successful marketing strategies.
+
+**Project goal** Identify the potential customer group from transactional data to improve the marketing campaign by designing profitable strategies; hence to increase the sales.
+
+**Methodolgy of work:**
+- Import Libraries, load the Data from Excel file to pandas data frame using python
+- Data preprocessing
+- Perform RFM analysis
+- Data Visualization
+- Calculate the RFM Score
+- Identify segments
+- Evaluate clustering using silhouette score
 
 ### Visuals
-![](/images/segmentation.png)  ![](/images/customer-seg-1.png)
+![](/images/rfm.png)  ![](/images/segmentation.png)
 
 
 ## [**Project 2- Product analysis and CLV**](https://github.com/egtef/products-clv)
