@@ -135,4 +135,6 @@
 - identify inventory classes given that class A shape about 60% of the value, class B 25% and class c 15%.
 
 **Visuals**
-![](/imagesabc.png) ![](/images/abcchart.png)
+
+
+![](/images/abc.png) ![](/images/abcchart.png)
