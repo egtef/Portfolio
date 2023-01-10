@@ -120,7 +120,6 @@
 [**Dashboard live view**](https://datastudio.google.com/reporting/e18c1dea-d51d-40dd-a55b-8d758378c922)
 
 ## [**Project 5- ABC analysis for inventory grouping**](https://github.com/egtef/Inventory-ABC-Analysis)
-# ABC-analysis
 - This project is to apply ABC inventory grouping technique (applying 80-20 rule to classifiying the inventory according to it's value) on a demo store dataset with two main columns (Quantity, Revenue).
 
 **Business Objective:** 
