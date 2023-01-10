@@ -81,6 +81,9 @@
 ## [**Project 4- Google merchandise case study**](https://github.com/egtef/Google-Merchandise-Store)
 - This case study (sent to moneris company) demonstrates my approach in solving E-commerce business problem from understanding the requirements to writing down recommendations and creating dashboard. 
 
+**Key business goals** 
+- Increase the revenue of the entire sales by unlocking sales insights, evaluate the store performance in respect to campaigns and products.
+
 **Key Visuals**	
 - Increase leads.
 - Conversion rate optimization.
