@@ -11,7 +11,7 @@
 
 **Dataset brief:**  This file contains purchase data from April 2020 to November 2020 from a large home appliances and electronics online store. Each row in the file represents an event. All events are related to products and users. 
 
-**Case problem:** The world has transferred to the digital era several years ago, along with this transformation the marketing has been evolved from traditional marketing activities to the digital one. Developing effective digital marketing strategies [**More**](https://github.com/egtef/customer-segmentation).
+**Case problem:** The world has transferred to the digital era several years ago, along with this transformation the marketing has been evolved from traditional marketing activities to the digital one. Developing effective digital marketing strategies [**Full project**](https://github.com/egtef/customer-segmentation).
 
 **Project goal:** Identify the potential customer group from transactional data to improve the marketing campaign by designing profitable strategies; hence to increase the sales.
 
@@ -29,7 +29,7 @@
 
 
 ## [**Project 2- Product analysis and CLV**](https://github.com/egtef/products-clv)
-- This project analyze online store dataset to understand customers purchasing behavior over period of time (a year) and products trend on monthly basis.
+- This project analyze online store dataset to understand customers purchasing behavior over period of time (a year) and products trend on monthly basis, [**Full project**](https://github.com/egtef/products-clv).
 
 ### Project Goals
 
