@@ -46,28 +46,32 @@
 ![](/images/clv_update1.png)  ![](/images/clv_update2.png) ![](/images/clv_update3.png) ![](/images/clv_update4.png)
 
 
-## [**Project 3- Churn prediction analysis**](https://github.com/egtef/Churn-prediction-analysis)
-### Project Goals
+## [**Project 3- Sales Insights**](https://github.com/egtef/Sales-Insights)
 
-- Enable the retention team to get to know which variables may impact the customers leaving.
-- Reduce customer churn by proactively contacting customers likely to churn
+**Dataset**: Demo dataset of a hardware company with multi-branches, [**Full project**](https://github.com/egtef/Sales-Insights).
 
-### Visuals
-![](/images/churn1.png)  ![](/images/churn2.png) ![](/images/churn3.png)
+### Project Purpose
 
+- To unlock sales insights that aren’t visible before & provide valuable insights about the sales performance & automated them to reduce manual time spend in data gathering.
 
-## [**Project 4- Sentiment analysis**](https://github.com/egtef/sentiment-analysis)
-### Project Goals
+### Project Stakholders
 
-- This project analyzed a restaurant reviews dataset, trying different models to predict either the review is positive or negitive.
+- Sales team, marketing team, customer service team, data & analytics team, IT.
 
+### End result
 
+- An automated dashboard providing quick & latest sales insights in order to support driven decision making.
 
-## [**Project 5- Sales Insights**](https://github.com/egtef/Sales-Insights)
-### Project Goals
+### Success Criteria
 
-- To unlock sales insights that aren’t visible before & provide valuable insights about the sales performance.
-- An automated dashboard to uncover sales insights to help in taking better decisions.
+- A dashboard uncovering sales order insights.
+- Sales team able to take better decision by reducing manual work and be able optimize their tactics according to the findings.
+
+**Methodolgy**
+- ETL process: Connect tableau to MYSQL database and load the dataset.
+- Perform data cleaning: Filter out any market outside of the region, Filter out -1 values in sales column.
+- Perform EDA using tableau.
+- Create dynamic dashboard.
 
 
 ### Dashboard (Tableau)
