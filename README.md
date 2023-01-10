@@ -118,3 +118,22 @@
 ![](/images/gds.png)
 
 [**Dashboard live view**](https://datastudio.google.com/reporting/e18c1dea-d51d-40dd-a55b-8d758378c922)
+
+## [**Project 5- ABC analysis for inventory grouping**](https://github.com/egtef/Inventory-ABC-Analysis)
+# ABC-analysis
+- This project is to apply ABC inventory grouping technique (applying 80-20 rule to classifiying the inventory according to it's value) on a demo store dataset with two main columns (Quantity, Revenue).
+
+**Business Objective:** 
+
+- Group the inventory and classify the products into three categories A,B and C based on two factors the cost per unit and the quantity held in the stock.
+- Understand the inventory classes will helps in focusing on the critical few (A items).
+
+**Methodolgy of work:**
+- Using Excel functions (Vlookup(), countif() and sumif())
+- Choose the field of interest (Revenue).
+- Sort the inventory descending order.
+- Create cumulative revenue & cumulative revenue percentage.
+- identify inventory classes given that class A shape about 60% of the value, class B 25% and class c 15%.
+
+**Visuals**
+![](/imagesabc.png) ![](/images/abcchart.png)
