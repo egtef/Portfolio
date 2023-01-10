@@ -25,7 +25,9 @@
 - Evaluate clustering using silhouette score.
 
 **Outputs**
+
 ![](/images/rfm.png)  ![](/images/segmentation.png)
+
 
 
 ## [**Project 2- Product analysis and CLV**](https://github.com/egtef/products-clv)
@@ -43,7 +45,9 @@
 - Visualzation and findings.
 
 **Outputs**
+
 ![](/images/clv_update1.png)  ![](/images/clv_update2.png) ![](/images/clv_update3.png) ![](/images/clv_update4.png)
+
 
 
 ## [**Project 3- Sales Insights**](https://github.com/egtef/Sales-Insights)
@@ -76,6 +80,7 @@
 
 **Dashboard (Tableau)**
 ![](/images/Picturesales.png)
+
 
 
 ## [**Project 4- Google merchandise case study**](https://github.com/egtef/Google-Merchandise-Store)
