@@ -29,14 +29,21 @@
 
 
 ## [**Project 2- Product analysis and CLV**](https://github.com/egtef/products-clv)
+- This project analyze online store dataset to understand customers purchasing behavior over period of time (a year) and products trend on monthly basis.
+
 ### Project Goals
 
 - Analyze the patterns of repeat customers and their contributions to overall revenue.
 - Analyze the behaviors of best-selling products.
-- Track the trends of popular items over time
+- Track the trends of popular items over time.
 
-### Visuals
-![](/images/clv-1.png)  ![](/images/clv-2.png)
+**Methodolgy**
+- Read the dataset from excel file to pandas dataframe using python.
+- Exploratory data analysis.
+- Visualzation and findings.
+
+### Outputs
+![](/images/clv_update1.png)  ![](/images/clv_update2.png) ![](/images/clv_update3.png) ![](/images/clv_update4.png)
 
 
 ## [**Project 3- Churn prediction analysis**](https://github.com/egtef/Churn-prediction-analysis)
