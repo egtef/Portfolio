@@ -1,4 +1,4 @@
-> ## Some of data projects that solve various problems, focusing on marketing domain.
+> ## The projects showcase a data analytics approach that analyzes the marketing performance of different clients.
 
 ## [**Project 1- Online store customers segmentation**](https://github.com/egtef/customer-segmentation)
 - This project classifies an online store customers based on their Recnecy, Frequency and Monetary.
