@@ -15,7 +15,7 @@ Identify distinct customer segments based on purchasing behavior to enable data-
 - Source: Kaggle (real-world dataset)
 - Period: April 2020 – November 2020
 - Industry: Home appliances & electronics e-commerce
-**View Dataset: [**https://www.kaggle.com/mkechinov/ecommerce-purchase-history-from-electronics-store**](https://www.kaggle.com/mkechinov/ecommerce-purchase-history-from-electronics-store)
+- [**View Dataset**]: [**https://www.kaggle.com/mkechinov/ecommerce-purchase-history-from-electronics-store**](https://www.kaggle.com/mkechinov/ecommerce-purchase-history-from-electronics-store)
 
 **Dataset brief:**  This file contains purchase data from April 2020 to November 2020 from a large home appliances and electronics online store. Each row in the file represents an event. All events are related to products and users. 
 
