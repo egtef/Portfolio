@@ -15,7 +15,6 @@ Python (Pandas, NumPy), Data Visualization
 🔗 [View Project](https://github.com/egtef/customer-segmentation)
 🔗 [Dataset](https://www.kaggle.com/mkechinov/ecommerce-purchase-history-from-electronics-store)
 
-<br>
 ---
 <br>
 
