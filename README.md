@@ -9,38 +9,13 @@ Segmented customers using transactional data to identify high-value groups and i
 - Applied RFM analysis and clustering validation  
 - Generated insights for targeted marketing strategies  
 
-**Tools**
-Python, Pandas, Data Visualization
+**Tools:**
+Python (Pandas, NumPy), Data Visualization
 
 🔗 [View Project](https://github.com/egtef/customer-segmentation)
 🔗 [Dataset](https://www.kaggle.com/mkechinov/ecommerce-purchase-history-from-electronics-store)
 
 
-**Dataset:**
-- Source: Kaggle (real-world dataset)
-- Period: April 2020 – November 2020
-- Industry: Home appliances & electronics e-commerce
-- [View Dataset](https://www.kaggle.com/mkechinov/ecommerce-purchase-history-from-electronics-store)
-
-**Methodology:**
-- Data cleaning & preprocessing using Python (Pandas)
-- RFM (Recency, Frequency, Monetary) analysis
-- Customer scoring and segmentation
-- Clustering validation using silhouette score
-- Data visualization (customer distribution & segment insights)
-
-**Case problem:** The world has transferred to the digital era several years ago, along with this transformation the marketing has been evolved from traditional marketing activities to the digital one. Developing effective digital marketing strategies [**Full project**](https://github.com/egtef/customer-segmentation).
-
-**Project goal:** Identify the potential customer group from transactional data to improve the marketing campaign by designing profitable strategies; hence to increase the sales.
-
-**Methodolgy of work:**
-- Import Libraries, load the Data from Excel file to pandas data frame using python.
-- Data preprocessing.
-- Perform RFM analysis.
-- Data Visualization.
-- Calculate the RFM Score.
-- Identify segments.
-- Evaluate clustering using silhouette score.
 
 **Outputs**
 
