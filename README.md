@@ -1,6 +1,8 @@
 > ## Data-Driven Marketing Analytics: Turning marketing Data into Actionable Insights & Measurable Growth.
 
-## [**Project 1- Online store customers segmentation**](https://github.com/egtef/customer-segmentation)
+## [**Project 1: Customer Segmentation for E-commerce Growth (RFM Analysis)**](https://github.com/egtef/customer-segmentation)
+
+**Overview** Segmented customers of a real-world e-commerce store using transactional data to uncover high-value audiences and improve marketing ROI.
 - This project classifies online store customers based on their Recnecy, Frequency and Monetary.
 
 **Dataset name**: appliances and electronics online store.
