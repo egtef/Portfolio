@@ -31,7 +31,7 @@ Analyzed one year of e-commerce transaction data to understand customer purchasi
 Python (Pandas, NumPy), Data Analysis, Data Visualization
 
 🔗 [View Project](https://github.com/egtef/products-clv)
-🔗 [Dataset](https://archive.ics.uci.edu/ml/datasets/online+retail)
+🔗 [Dataset](http://archive.ics.uci.edu/ml/datasets/online+retail)
 
 
 **Outputs**
