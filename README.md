@@ -2,7 +2,7 @@
 
 ## [**Project 1: Customer Segmentation for E-commerce Growth (RFM Analysis)**](https://github.com/egtef/customer-segmentation)
 
-**Overview** 
+**Overview:** 
 Segmented customers of a real-world e-commerce store using transactional data to uncover high-value audiences and improve marketing ROI.
 - This project classifies online store customers based on their Recnecy, Frequency and Monetary.
 
