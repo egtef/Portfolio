@@ -15,8 +15,9 @@ Python (Pandas, NumPy), Data Visualization
 🔗 [View Project](https://github.com/egtef/customer-segmentation)
 🔗 [Dataset](https://www.kaggle.com/mkechinov/ecommerce-purchase-history-from-electronics-store)
 
-
-
+<br>
+---
+<br>
 
 ## [**Project 2- Product analysis and CLV**](https://github.com/egtef/products-clv)
 - This project analyze online store dataset to understand customers purchasing behavior over period of time (a year) and products trend on monthly basis, [**Full project**](https://github.com/egtef/products-clv).
