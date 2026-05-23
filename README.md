@@ -16,7 +16,6 @@ Python (Pandas, NumPy), Data Visualization
 🔗 [Dataset](https://www.kaggle.com/mkechinov/ecommerce-purchase-history-from-electronics-store)
 
 ---
-<br>
 
 ## [**Project 2- E-commerce Customer Behavior & Sales Trend Analysis**](https://github.com/egtef/products-clv)
 
