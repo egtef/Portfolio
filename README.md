@@ -4,7 +4,8 @@
 
 **Overview:** 
 Segmented customers of a real-world e-commerce store using transactional data to uncover high-value audiences and improve marketing ROI.
-- This project classifies online store customers based on their Recnecy, Frequency and Monetary.
+**Business Problem:**
+E-commerce businesses often struggle to identify which customers to target for retention, upselling, and reactivation campaigns.
 
 **Dataset name**: appliances and electronics online store.
 
