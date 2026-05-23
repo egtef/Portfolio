@@ -1,7 +1,7 @@
-> ## The projects showcase a data analytics approach that analyzes the marketing performance of different clients.
+> ## Data-Driven Marketing Analytics: Turning marketing Data into Actionable Insights & Measurable Growth.
 
 ## [**Project 1- Online store customers segmentation**](https://github.com/egtef/customer-segmentation)
-- This project classifies an online store customers based on their Recnecy, Frequency and Monetary.
+- This project classifies online store customers based on their Recnecy, Frequency and Monetary.
 
 **Dataset name**: appliances and electronics online store.
 
