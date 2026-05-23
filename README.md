@@ -4,6 +4,7 @@
 
 **Overview:** 
 Segmented customers of a real-world e-commerce store using transactional data to uncover high-value audiences and improve marketing ROI.
+
 **Business Problem:**
 E-commerce businesses often struggle to identify which customers to target for retention, upselling, and reactivation campaigns.
 
