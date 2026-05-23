@@ -17,6 +17,7 @@ Python (Pandas, NumPy), Data Visualization
 
 
 
+
 ## [**Project 2- Product analysis and CLV**](https://github.com/egtef/products-clv)
 - This project analyze online store dataset to understand customers purchasing behavior over period of time (a year) and products trend on monthly basis, [**Full project**](https://github.com/egtef/products-clv).
 
