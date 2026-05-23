@@ -2,14 +2,19 @@
 
 ## [**Project 1: Customer Segmentation for E-commerce Growth (RFM Analysis)**](https://github.com/egtef/customer-segmentation)
 
-**Overview:** 
-Segmented customers of a real-world e-commerce store using transactional data to uncover high-value audiences and improve marketing ROI.
+Segmented customers using transactional data to identify high-value groups and improve marketing performance.
 
-**Business Problem:**
-E-commerce businesses often struggle to identify which customers to target for retention, upselling, and reactivation campaigns.
+**Highlights**
+- Identified loyal, at-risk, and high-potential customer segments  
+- Applied RFM analysis and clustering validation  
+- Generated insights for targeted marketing strategies  
 
-**Objective:**
-Identify distinct customer segments based on purchasing behavior to enable data-driven marketing strategies that increase revenue and customer lifetime value (CLV).
+**Tools**
+Python, Pandas, Data Visualization
+
+🔗 [View Project](https://github.com/egtef/customer-segmentation)
+🔗 [Dataset](https://www.kaggle.com/mkechinov/ecommerce-purchase-history-from-electronics-store)
+
 
 **Dataset:**
 - Source: Kaggle (real-world dataset)
