@@ -21,7 +21,7 @@ Python (Pandas, NumPy), Data Visualization
 
 Analyzed one year of e-commerce transaction data to understand customer purchasing behavior and product performance trends over time.
 
-### Key Highlights
+**Highlights**
 - Identified repeat customer behavior and their contribution to total revenue  
 - Analyzed best-selling products and revenue drivers  
 - Tracked monthly product demand trends to uncover seasonal patterns  
