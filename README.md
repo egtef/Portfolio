@@ -16,9 +16,13 @@ Identify distinct customer segments based on purchasing behavior to enable data-
 - Period: April 2020 – November 2020
 - Industry: Home appliances & electronics e-commerce
 - [View Dataset](https://www.kaggle.com/mkechinov/ecommerce-purchase-history-from-electronics-store)
-- [**View Dataset**]: [**https://www.kaggle.com/mkechinov/ecommerce-purchase-history-from-electronics-store**](https://www.kaggle.com/mkechinov/ecommerce-purchase-history-from-electronics-store)
 
-**Dataset brief:**  This file contains purchase data from April 2020 to November 2020 from a large home appliances and electronics online store. Each row in the file represents an event. All events are related to products and users. 
+**Methodology:**
+- Data cleaning & preprocessing using Python (Pandas)
+- RFM (Recency, Frequency, Monetary) analysis
+- Customer scoring and segmentation
+- Clustering validation using silhouette score
+- Data visualization (customer distribution & segment insights)
 
 **Case problem:** The world has transferred to the digital era several years ago, along with this transformation the marketing has been evolved from traditional marketing activities to the digital one. Developing effective digital marketing strategies [**Full project**](https://github.com/egtef/customer-segmentation).
 
