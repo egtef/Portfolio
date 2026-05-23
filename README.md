@@ -17,7 +17,7 @@ Python (Pandas, NumPy), Data Visualization
 
 ---
 
-## [**Project 2- E-commerce Customer Behavior & Sales Trend Analysis**](https://github.com/egtef/products-clv)
+## [**Project 2: E-commerce Customer Behavior & Sales Trend Analysis**](https://github.com/egtef/products-clv)
 
 Analyzed one year of e-commerce transaction data to understand customer purchasing behavior and product performance trends over time.
 
