@@ -27,18 +27,12 @@ Analyzed one year of e-commerce transaction data to understand customer purchasi
 - Tracked monthly product demand trends to uncover seasonal patterns  
 - Discovered shifts in product popularity over time  
 
--   [**Full project**](https://github.com/egtef/products-clv).
+**Tools:**
+Python (Pandas, NumPy), Data Analysis, Data Visualization
 
-**Project Goals**
+🔗 [View Project](https://github.com/egtef/products-clv)
+🔗 [Dataset](https://www.kaggle.com/mkechinov/ecommerce-purchase-history-from-electronics-store)
 
-- Analyze the patterns of repeat customers and their contributions to overall revenue.
-- Analyze the behaviors of best-selling products.
-- Track the trends of popular items over time.
-
-**Methodolgy**
-- Read the dataset from excel file to pandas dataframe using python.
-- Exploratory data analysis.
-- Visualzation and findings.
 
 **Outputs**
 
