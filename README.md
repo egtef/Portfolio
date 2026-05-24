@@ -4,7 +4,20 @@
 
 Unified and analyzed advertising campaign data across Google Ads, Facebook Ads, and TikTok Ads to evaluate campaign effectiveness, platform efficiency, and engagement performance.
 
+**Highlights**
 
+- Standardized cross-platform KPIs using SQL in Google BigQuery
+- Built unified analytical views for campaign, platform, and trend analysis
+- Performed exploratory data analysis (EDA) across multi-source marketing datasets
+- Developed interactive dashboards in Looker Studio
+- Identified top-performing and underperforming campaigns using CPA, CTR, CPC, and conversion metrics
+
+**Tools & Technologies**
+SQL, Google BigQuery, Looker Studio, Data Visualization, Marketing Analytics
+
+🔗 [View Project](https://github.com/egtef/cross-platform-marketing-analytics)
+
+---
 
 ## [**Project 2: Customer Segmentation for E-commerce Growth (RFM Analysis)**](https://github.com/egtef/customer-segmentation)
 
