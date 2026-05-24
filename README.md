@@ -1,6 +1,12 @@
 > ## Data-Driven Marketing Analytics: Turning marketing Data into Actionable Insights & Measurable Growth.
 
-## [**Project 1: Customer Segmentation for E-commerce Growth (RFM Analysis)**](https://github.com/egtef/customer-segmentation)
+## [**Project 1: Cross-Platform Marketing Analytics Dashboard**](https://github.com/egtef/cross-platform-marketing-analytics)
+
+Unified and analyzed advertising campaign data across Google Ads, Facebook Ads, and TikTok Ads to evaluate campaign effectiveness, platform efficiency, and engagement performance.
+
+
+
+## [**Project 2: Customer Segmentation for E-commerce Growth (RFM Analysis)**](https://github.com/egtef/customer-segmentation)
 
 Segmented customers using transactional data to identify high-value groups and improve marketing performance.
 
@@ -17,7 +23,7 @@ Python (Pandas, NumPy), Data Visualization
 
 ---
 
-## [**Project 2: E-commerce Customer Behavior & Sales Trend Analysis**](https://github.com/egtef/products-clv)
+## [**Project 3: E-commerce Customer Behavior & Sales Trend Analysis**](https://github.com/egtef/products-clv)
 
 Analyzed one year of e-commerce transaction data to understand customer purchasing behavior and product performance trends over time.
 
