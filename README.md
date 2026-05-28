@@ -51,3 +51,18 @@ Python (Pandas, NumPy), Data Analysis, Data Visualization
 
 🔗 [View Project](https://github.com/egtef/products-clv)
 🔗 [Dataset](http://archive.ics.uci.edu/ml/datasets/online+retail)
+
+---
+
+## [**Project 4: Canadian E-Commerce Econometrics Analysis**](https://github.com/egtef/products-clv)
+
+Econometric and time-series analysis project examining how wages, employment, and inflation impact Canadian retail e-commerce sales using seasonally adjusted Statistics Canada data (2017–2025).
+
+**Highlights**
+- Built multiple OLS regression models and conducted heteroskedasticity and autocorrelation testing
+- Applied robust standard error corrections to evaluate model reliability and economic relationships.  
+
+**Tools:**
+R, Econometrics, OLS Regression, Time-Series Analysis, Statistical Modelling
+
+🔗 [View Project](https://github.com/egtef/products-clv)
